@@ -1,0 +1,17 @@
+{
+  "name": "demo_deployer",
+  "version": "1.0.0",
+  "description": "Small node application that allows to clone and deploy ABCS demo Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrique Ramirez",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
